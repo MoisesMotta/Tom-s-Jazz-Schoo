@@ -1,4 +1,4 @@
-<h1> Social Treel</h1>
+<h1> Social Tree</h1>
 <p>🚀 O social tree é um projeto baseado em um desafio do youtube, no qual deveria ser criado um site com html e css inserindo as redes sociais e a costumização da página.</p>
 <h2>Deploy</h2>
 <p> Meu Projeto >> https://socialtreeprojeto.netlify.app
