@@ -1,7 +1,7 @@
-<h1> Social Tree</h1>
-<p>🚀 O social tree é um projeto baseado em um desafio do youtube, no qual deveria ser criado um site com html e css inserindo as redes sociais e a costumização da página.</p>
+<h1> Tom's Jazz School </h1>
+<p>🚀 O  Tom's Jazz School é um projeto baseado em um desafio do youtube, no qual deveria ser criado um site com html e css totalmente responsivo e semântico.</p>
 <h2>Deploy</h2>
-<p> Meu Projeto >> https://socialtreeprojeto.netlify.app
+<p> Meu Projeto >> https://tomjazzschool.netlify.app/
 
 <h2>🚀Techs</h2>
 
@@ -10,10 +10,10 @@
 
 <h3>Layout</h3>
 
-![image](https://user-images.githubusercontent.com/116123006/217709727-fa0fad35-776e-4007-a25e-08bc6f3a0bda.png)
+![image](https://user-images.githubusercontent.com/116123006/217710727-59e0e4ce-eac7-495f-ac80-2bdd05a5777b.png)
+![image](https://user-images.githubusercontent.com/116123006/217710753-eecd4eac-5cd4-475a-beb8-e057daa54031.png)
+![image](https://user-images.githubusercontent.com/116123006/217710852-1ba59a4a-a383-416c-8f45-65424c67d92d.png)
 
-
-Layou do desafio no figma [link](https://www.figma.com/file/48gpM1ebGHulEXrotoIwhZ/DD-%2F-Social-links-(Copy)?node-id=0%3A1&t=hgAohLbr4KtwEXhj-0)
  
 
 
